@@ -1,4 +1,6 @@
 # IntraTest-
-Demo Test: https://wireup.it/test_intra/test.php
+Index: http://wireapp.it/test_intra/
 
-Demo Cart: https://wireup.it/test_intra/Cart.php
+Demo Test: http://wireapp.it/test_intra/test.php
+
+Demo Cart: http://wireapp.it/test_intra/Cart.php
